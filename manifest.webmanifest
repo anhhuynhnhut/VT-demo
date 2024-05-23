@@ -1,15 +1,3 @@
-{
-    "name": "VirtualTour",
-    "short_name": "VirtualTour",
-    "start_url": "index.html",
-    "display": "fullscreen",
-    "background_color": "#231F20",
-    "theme_color": "#000",
-    "description": "VT",
-    "icons": [{
-      "src": "TemplateData/icons/unity-logo-dark.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }]
-  }
+version https://git-lfs.github.com/spec/v1
+oid sha256:693cfd7af48800f05b97cb87a24e1075f2ffc42cb7a039a3a80f4621ac8a8d8f
+size 376
